@@ -1,0 +1,25 @@
+
+]squid:S18544"?Remove this useless assignment to local variable "tablica2DDD".(œ¬œ8ûäÕÉù-
+Jsquid:S1481'"'Remove this unused "t2" local variable.(½òÿÇúÿÿÿÿ8­øÇù-
+|squid:S22930"YReplace the type specification in this constructor call with the diamond operator ("<>").(œ´×šÿÿÿÿÿ8È‚ÖÈù-
+ysquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ú®Àˆ8‘ø›ªù-
+Msquid:S14812"/Remove this unused "tablica2DD" local variable.(™Úæª8î™ÔÉù-
+Ksquid:S1481-"-Remove this unused "tString1" local variable.(ğÛğ8¨ÅûÇù-
+Lsquid:S1481E".Remove this unused "tablica3D" local variable.(‰¼Ğš8áçŒÈù-
+Gsquid:S1905-")Remove this unnecessary cast to "String".(ğÛğ8êµıÇù-
+Nsquid:S14814"0Remove this unused "tablica2DDD" local variable.(œ¬œ8ûäÕÉù-
+[squid:S1854E"=Remove this useless assignment to local variable "tablica3D".(‰¼Ğš8áçŒÈù-
+Zsquid:S1854-"<Remove this useless assignment to local variable "tString1".(ğÛğ8¨ÅûÇù-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(á¾î¤üÿÿÿÿ8‘ø›ªù-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(á¾î¤üÿÿÿÿ8ÿ° ªù-
+Jsquid:S1481&"'Remove this unused "t1" local variable.(ì­Ş®ùÿÿÿÿ8­øÇù-
+\squid:S18542">Remove this useless assignment to local variable "tablica2DD".(™Úæª8ñÁ¬Èù-
+Ysquid:S1854'"6Remove this useless assignment to local variable "t2".(½òÿÇúÿÿÿÿ8­øÇù-
+Ysquid:S1854&"6Remove this useless assignment to local variable "t1".(ì­Ş®ùÿÿÿÿ8­øÇù-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(İåößÿÿÿÿÿ8­¸Ÿªù-
+`squid:S18540"=Remove this useless assignment to local variable "tablica2D".(œ´×šÿÿÿÿÿ8É¢ñÒù-
+Qsquid:S14810".Remove this unused "tablica2D" local variable.(œ´×šÿÿÿÿÿ8É¢ñÒù-
+nsquid:CommentedOutCodeLine="<This block of commented-out lines of code should be removed.( İÕæûÿÿÿÿ8É¢ñÒù-

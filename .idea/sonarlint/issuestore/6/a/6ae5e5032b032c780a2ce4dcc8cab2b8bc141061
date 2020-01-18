@@ -1,0 +1,5 @@
+
+Nsquid:S1172"+Remove this unused method parameter "data".(ÒÇ³úûÿÿÿÿ8üÚÏÒù-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(šˆ½ùÿÿÿÿ
+€squid:S4165"bRemove this useless assignment; "data" already holds the assigned value along all execution paths.(ğ¦Æ8ĞÒÒù-
+Rsquid:EmptyStatementUsageCheck"Remove this empty statement.(ôŸìúÿÿÿÿ8æ†Òù-

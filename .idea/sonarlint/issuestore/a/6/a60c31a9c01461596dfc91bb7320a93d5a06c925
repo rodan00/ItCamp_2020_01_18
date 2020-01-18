@@ -1,0 +1,5 @@
+
+~squid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(µ·à´øÿÿÿÿ8¯Ó¦ù-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.( ·»šøÿÿÿÿ8ŞÜæ¦ù-
+Rsquid:EmptyStatementUsageCheck"Remove this empty statement.(ôŸìúÿÿÿÿ8±ç¦ù-

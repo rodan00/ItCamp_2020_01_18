@@ -1,0 +1,10 @@
+
+Wsquid:S1481"4Remove this unused "zmiennaglobalna" local variable.(ÑÉÄïÿÿÿÿÿ8ÊÔá¾û-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(›êŞÂúÿÿÿÿ8ÊÔá¾û-
+`squid:S1854"BRemove this useless assignment to local variable "zmiennalokalna".(Ëë›š8’ãÉ¾û-
+Qsquid:S1481"3Remove this unused "zmiennalokalna" local variable.(Ëë›š8’ãÉ¾û-
+asquid:S1854"CRemove this useless assignment to local variable "zmiennaglobalna".(Ÿğ› 8ÊÔá¾û-
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¡¹±å8ÊÔá¾û-
+V
+squid:S106 "9Replace this use of System.out or System.err by a logger.(àÓ¨¨8…†ã¾û-

@@ -1,0 +1,16 @@
+
+V
+squid:S1068"9Replace this use of System.out or System.err by a logger.(ÁïæË8ÑıËù-
+Rsquid:EmptyStatementUsageCheck\"Remove this empty statement.(ôŸìúÿÿÿÿ8ªõƒËù-
+Rsquid:EmptyStatementUsageCheckX"Remove this empty statement.(ôŸìúÿÿÿÿ8ªõƒËù-
+[
+squid:S106""9Replace this use of System.out or System.err by a logger.(ÃæóÙúÿÿÿÿ8áµÊù-
+?squid:S21292"!Remove this "Integer" constructor(ÛöÙ´8ªõƒËù-
+[
+squid:S1067"9Replace this use of System.out or System.err by a logger.(ª÷¦šùÿÿÿÿ8ªõƒËù-
+Jsquid:S2201:",The return value of "parseInt" must be used.(ï†ßõ8ÒÆ‘Ëù-
+Rsquid:EmptyStatementUsageCheck`"Remove this empty statement.(ôŸìúÿÿÿÿ8ªõƒËù-
+Tsquid:S18542"6Remove this useless assignment to local variable "aa".(ÛöÙ´8ªõƒËù-
+Esquid:S14812"'Remove this unused "aa" local variable.(ÛöÙ´8ªõƒËù-
+nsquid:CommentedOutCodeLineH"<This block of commented-out lines of code should be removed.(“ú€åøÿÿÿÿ8ªõƒËù-
+^squid:CallToDeprecatedMethod2"/Remove this use of "Integer"; it is deprecated.(ÛöÙ´8ªõƒËù-
