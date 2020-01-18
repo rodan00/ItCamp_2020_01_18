@@ -16,6 +16,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1WFSi5pZFYXvomLmwHdhcanBV4g" />
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -29,9 +32,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ListaZmiana">
-    <configuration name="ListaZmiana" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.comp.it.ListaZmiana" />
+  <component name="RunManager" selected="Application.WieleArg">
+    <configuration name="ExceptionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.comp.it.ExceptionDemo" />
       <module name="Desktop2" />
       <extension name="coverage">
         <pattern>
@@ -43,12 +46,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.comp.it.Mapy.Main" />
+    <configuration name="ListaZmiana" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.comp.it.ListaZmiana" />
       <module name="Desktop2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.comp.it.Mapy.*" />
+          <option name="PATTERN" value="pl.comp.it.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +85,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WieleArg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.comp.it.WieleArg" />
+      <module name="Desktop2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.comp.it.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WieleArg" />
+        <item itemvalue="Application.ExceptionDemo" />
         <item itemvalue="Application.ListaZmiana" />
         <item itemvalue="Application.TimerMC" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -103,6 +120,17 @@
       <updated>1578743973093</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Desktop2$Main.ic" NAME="Main Coverage Results" MODIFIED="1578757637009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
